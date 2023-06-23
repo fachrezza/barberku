@@ -1,3 +1,3 @@
-# Use Case Barberku
+# UseCase Barberku
 
-![Alt text](UseCase/Barberku.jpg)
+![Alt text](UseCase/BarberkuUseCase.jpg)
